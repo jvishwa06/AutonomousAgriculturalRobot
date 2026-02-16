@@ -28,7 +28,9 @@ This autonomous agriculture robot was developed to automate the process of paddy
 
 ## Demo Video
 
-[Watch the demo video](videos/robot.mp4)
+<p align="center" width="100%">
+<video src="videos/robot.mp4" width="80%" controls></video>
+</p>
 
 ## Hardware Used
 
