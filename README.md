@@ -26,6 +26,13 @@ This autonomous agriculture robot was developed to automate the process of paddy
 - **Depth Sensing:** Utilization of Intel RealSense depth camera for obtaining point clouds and enhanced object detection.
 - **Optimized Performance:** Deployment of the quantized model on Jetson Orin Nano for high efficiency.
 
+## Demo Video
+
+<video width="640" height="480" controls>
+  <source src="videos/robot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Hardware Used
 
 - **Jetson Orin Nano:** Used for deploying the AI model and controlling the robot.
